@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650677689235",
+    "project_id": "pak-academy-app",
+    "storage_bucket": "pak-academy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650677689235:android:4191eef396dcd82017a666",
+        "android_client_info": {
+          "package_name": "com.example.app_28_pakacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650677689235-cbnb8gsie7584tagbjcp2h6htfbb056v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDrw_39TfIK3ivzkvkMVIgn6JGesux90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650677689235-cbnb8gsie7584tagbjcp2h6htfbb056v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
